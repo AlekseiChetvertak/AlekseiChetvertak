@@ -14,6 +14,7 @@
 - GitHub: [AlekseiChetvertak](https://github.com/AlekseiChetvertak)
 - VK: [Aleksei Chetvertak](https://vk.com/alekseichetvertak)
 - Instagram: [Aleks.ctv](https://www.instagram.com/aleks.ctv/)
+- GMAIL: [aleksei.tschetvertak](aleksei.tschetvertak@gmail.com)
 
 👨‍💻 **Несколько слов о моем подходе:**
 > "Код должен быть не только рабочим, но и красивым. Стремление к чистоте и эффективности - мой постоянный компаньон в мире программирования."
