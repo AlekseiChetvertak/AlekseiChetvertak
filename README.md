@@ -1,28 +1,73 @@
-# Aleksei Chetvertak
-# Moscow State University (МГУ им Ломоносова, Факультет Вычислительной Математики и Кибернетики)
+### **Aleksei Chetvertak**  
+**💻 Tech Entrepreneur | ex-HR Tech | Algorithms & Fullstack**  
+📍 Moscow, Russia | [LinkedIn](https://linkedin.com/in/your-profile) | [Telegram](https://t.me/yourhandle)  
 
-👋 Привет! Я - Четвертак Алексей, страстный программист, увлеченный изучением и разработкой на нескольких языках программирования. Мой фокус включает в себя Pascal, Python и C#. Стремлюсь к созданию эффективного и чистого кода, а также постоянно улучшаю свои навыки в сфере разработки.
+```python
+while True:
+    code() | build() | scale()
+```
 
-🚀 **Мой стек технологий:**
-- **Pascal:** Отдаю предпочтение этому замечательному языку для решения алгоритмических задач и создания надежных программ. Начал работать на нем в МГУ и использую в качестве языка для оттачивания навыков
-- **Python:** Моя любовь к Python проявляется в разработке веб-приложений, автоматизации задач и анализе данных.
-- **C#:** Исследую возможности C# для создания современных приложений, особенно в контексте разработки на платформе .NET.
+> 💬 Open to tech collabs, speaking gigs & feedback — let’s build something awesome together!
 
-🌱 **В поиске новых вызовов и проектов для участия.**
+---
 
-📫 **Свяжитесь со мной:**
-- GitHub: [AlekseiChetvertak](https://github.com/AlekseiChetvertak)
-- VK: [Aleksei Chetvertak](https://vk.com/alekseichetvertak)
-- Instagram: [Aleks.ctv](https://www.instagram.com/aleks.ctv/)
-- E-Mail: aleksei.tschetvertak@gmail.com
+#### **🚀 Current Focus**  
+- **Founding a fashion-tech marketplace** for indie designers (Next.js, .NET, PostgreSQL)  
+- **Building dev teams** & optimizing startup workflows  
+- **Hiring fullstack & ML devs** for early-stage product acceleration  
+- **Speaking at tech conferences** (DUT 2022–2023)  
 
-👨‍💻 **Несколько слов о моем подходе:**
-> "Код должен быть не только рабочим, но и красивым. Стремление к чистоте и эффективности - мой постоянный компаньон в мире программирования."
+---
 
-🎯 **Мои цели:**
-- Продолжать углубленное изучение выбранных языков программирования.
-- Активно участвовать в открытых исследованиях и проектах.
-- Набираться опыта работы в команде на стажировках в фирмах
-- Расширять свой стек технологий и осваивать новые языки.
+#### **🛠️ Tech Stack**  
+`C#` `.NET` `Python` `Pascal` (Algorithms)  
+`React` `Next.js` `Tailwind`  
+`PostgreSQL` `Docker`  
 
-Буду рад новым знакомствам и интересным проектам. Давайте создадим нечто удивительное вместе! 💻✨
+---
+
+#### **📜 Background**  
+- **MSc in Computer Science** @ MSU (VMK)  
+- **Head of HR Tech** @ [Previous Company] (Built HR dept from scratch)  
+- **Published researcher** on high-voltage powerline optimization  
+- **Ex-speaker** at international tech forums  
+
+---
+
+#### **🌱 Startup DNA**  
+```diff
++ 2024: Launched MVP for designer marketplace  
++ 2023: Left corporate job to build startups  
+! Passion: Bridging tech and fashion through code  
+```
+
+---
+
+#### **📫 Let’s Connect**  
+[![Telegram](https://img.shields.io/badge/Telegram-@yourhandle-blue?style=flat&logo=telegram)](https://t.me/ebrandalex)  
+[![Email](https://img.shields.io/badge/Email-aleksei.tschetvertak@gmail.com-red?style=flat&logo=gmail)](mailto:aleksei.tschetvertak@gmail.com)  
+
+---
+
+#### **🧩 Code Sample: Marketplace backend logic**
+```csharp
+public class DesignerProfile 
+{
+    public string Name { get; set; }
+    public List<Product> Collection { get; set; }
+    
+    public void AddToMarketplace() 
+    {
+        if (Collection.Any())
+            Console.WriteLine("✨ Listed new fashion drop!");
+    }
+}
+```
+
+---
+
+#### 🤝 **Contribute**
+Open to feedback, PRs, and fresh ideas. Check out issues or DM me!
+
+---
+
