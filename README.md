@@ -21,8 +21,8 @@ while True:
 
 #### **🛠️ Tech Stack**  
 `C#` `.NET` `Python` `Pascal` (Algorithms)  
-`React` `Next.js` `Tailwind`  
-`PostgreSQL` `Docker`  
+ 
+`x86` 
 
 ---
 
