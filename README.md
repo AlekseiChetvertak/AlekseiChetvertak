@@ -44,7 +44,7 @@ while True:
 ---
 
 #### **📫 Let’s Connect**  
-[![Telegram](https://img.shields.io/badge/Telegram-@yourhandle-blue?style=flat&logo=telegram)](https://t.me/ebrandalex)  
+[![Telegram](https://img.shields.io/badge/Telegram-@ebrandalex-blue?style=flat&logo=telegram)](https://t.me/ebrandalex)  
 [![Email](https://img.shields.io/badge/Email-aleksei.tschetvertak@gmail.com-red?style=flat&logo=gmail)](mailto:aleksei.tschetvertak@gmail.com)  
 
 ---
