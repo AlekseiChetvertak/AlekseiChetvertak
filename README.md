@@ -1,6 +1,6 @@
 ### **Aleksei Chetvertak**  
 **💻 Tech Entrepreneur | ex-HR Tech | Algorithms & Fullstack**  
-📍 Moscow, Russia | [LinkedIn](https://linkedin.com/in/your-profile) | [Telegram](https://t.me/yourhandle)  
+📍 Moscow, Russia | [Telegram](https://t.me/ebrandalex)  
 
 ```python
 while True:
