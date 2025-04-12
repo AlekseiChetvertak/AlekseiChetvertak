@@ -12,7 +12,7 @@ while True:
 ---
 
 #### **🚀 Current Focus**  
-- **Founding a fashion-tech marketplace** for indie designers (Next.js, .NET, PostgreSQL)  
+- **Founding a fashion-tech marketplace** for indie designers  
 - **Building dev teams** & optimizing startup workflows  
 - **Hiring fullstack & ML devs** for early-stage product acceleration  
 - **Speaking at tech conferences** (DUT 2022–2023)  
@@ -28,7 +28,7 @@ while True:
 
 #### **📜 Background**  
 - **MSc in Computer Science** @ MSU (VMK)  
-- **Head of HR Tech** @ [Previous Company] (Built HR dept from scratch)  
+- **Head of HR Tech** (Built HR dept from scratch)  
 - **Published researcher** on high-voltage powerline optimization  
 - **Ex-speaker** at international tech forums  
 
